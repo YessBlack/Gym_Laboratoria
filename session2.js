@@ -35,3 +35,4 @@ console.log(firstLast6([13, 6, 1, 2, 3]))
 const giveMeSomething = (str) => {
     return `something ${str}`
 }
+console.log(giveMeSomething("is better than nothing"))

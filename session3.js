@@ -54,9 +54,9 @@ function countSameEnds(str) {
       }
     })
     return cont
-  }
+}
   
-  console.log(countSameEnds("Pop! goes the balloon"))
+console.log(countSameEnds("Pop! goes the balloon"))
 
 //Esto es demasiado sencillo, elimina los espacios de la cadena, luego devuelve la cadena resultante.
 
